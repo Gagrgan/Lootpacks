@@ -1,0 +1,7 @@
+lootPack(lootpacks$test).lootItem()
+lootPack(lootpacks$test).lootRolls(1)
+
+lootItem(king's sword).lootCount(1)
+lootItem(king's sword).lootChance(50)
+lootItem(king's sword).lootItemType(iron sword)
+lootItem(king's sword).lootNbt({})
